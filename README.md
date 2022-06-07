@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Food & Service**
 
-- 🌱 I’m currently learning **Android technologies and architectures (Clean architecture, Kotlin Flows, Jetpack Compose, etc.)**
+- 🌱 I’m currently expanding my knowledge in **Android technologies and architectures (Clean Architecture, Testing, Jetpack Compose)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
