@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingb1rd&label=Profile%20views&color=088c22&style=flat" alt="kingb1rd" /> </p>
 
-- 🔭 I’m currently working on **Food & Service**
+- 🔭 Working on **Food & Service**
 
-- 🌱 I’m currently expanding my knowledge in **Android development (Clean Architecture, Testing, Jetpack Compose)**
+- 🌱 Expanding my knowledge in **Android development (Clean Architecture, Testing, Jetpack Compose)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
