@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Evgeny Chebotarev</h1>
-<h3 align="center">I'm passionate about native Android development :)</h3>
+<h3 align="center">Android Developer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingb1rd&label=Profile%20views&color=088c22&style=flat" alt="kingb1rd" /> </p>
 
